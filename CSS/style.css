@@ -60,6 +60,10 @@ body {
     /* width: 40%; */
     border-radius: 5px;
     cursor: pointer;
+    transform: scale(1);
+  }
+  .card:hover {
+    transform: scale(1.1);
   }
 
   img {
