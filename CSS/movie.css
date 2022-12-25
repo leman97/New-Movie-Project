@@ -59,10 +59,28 @@ body {
     float: right;
     position: relative;
     bottom: 60px;
+    left: 35px;
+    width: 450px;
+    height: 80px;
+    background-color: transparent;
 }
 .imdb ul li {
     display: inline-block;
     margin-right: 20px;
     color: white;
     letter-spacing: 2px;
+}
+.righttext {
+    width: 200px;
+    height: 80px;
+    background-color: transparent;
+    margin-left: 20px;
+    position: relative;
+    top: 20px;
+}
+.stars {
+    float: right;
+}
+.photofilm {
+    height: 540px;
 }
